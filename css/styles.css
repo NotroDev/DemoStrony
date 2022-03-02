@@ -11399,7 +11399,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/background.png");
+  background: url('../assets/background.png')no-repeat 0 0 fixed;
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
